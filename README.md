@@ -19,3 +19,8 @@ A turn-based board game inspired by strategic movement and card mechanics.
 - Encapsulation
 - Debugging
 - Team collaboration
+
+## How to Run
+1. Clone repository
+2. Open in IntelliJ / Eclipse
+3. Run Main.java
