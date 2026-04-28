@@ -24,3 +24,6 @@ A turn-based board game inspired by strategic movement and card mechanics.
 1. Clone repository
 2. Open in IntelliJ / Eclipse
 3. Run Main.java
+
+## Team Project
+Developed collaboratively as part of university coursework.
