@@ -1,4 +1,4 @@
-# DooR DasH Java Game
+# DooR DasH – Turn-Based Java Board Game
 
 A turn-based board game inspired by strategic movement and card mechanics.
 
